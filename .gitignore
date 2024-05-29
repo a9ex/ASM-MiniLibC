@@ -1,0 +1,8 @@
+mainA.asm
+main.c
+executable
+vgcore.*
+*.o
+tests
+build
+libasm.so
